@@ -1,0 +1,5 @@
+azure:
+  spring:
+    cloud:
+      config-server:
+        health: UP
