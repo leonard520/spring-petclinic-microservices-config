@@ -118,7 +118,7 @@ logging.level.com.azure.security.keyvault.secrets: debug
 logging.level.org.springframework.samples.petclinic: debug
 
 logging.level.org.springframework: INFO
-logging.level.org.hibernate: error
+logging.level.org.hibernate: INFO
 logging.level.com.mysql: debug
 logging.level.org.springframework.data.jpa: debug
 logging.level.org.springframework.web: debug
