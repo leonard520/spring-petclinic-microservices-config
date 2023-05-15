@@ -113,7 +113,7 @@ spring:
     #driver-class-name: com.mysql.jdbc.Driver
 ---
 # Logging
-logging.level.com.azure.spring.cloud.starter.keyvault.secrets: INFO
+logging.level.com.azure.spring.cloud.starter.keyvault.secrets: debug
 logging.level.com.azure.security.keyvault.secrets: debug
 logging.level.org.springframework.samples.petclinic: debug
 
